@@ -1,0 +1,38 @@
+nav {
+    background-color: rgb(66, 63, 98);
+    
+}
+.nav-item a {
+    color: rgb(184, 184, 176);
+}
+.nav-item a:hover{
+    color: blueviolet;
+    
+}
+/* الوضعين */
+.dark-mode {
+    background-color: #121212;
+    color: white;
+  }
+  
+  .light-mode {
+    background-color: white;
+    color: black;
+  }
+  
+  .navbar.dark {
+    background-color: #1f1f1f;
+  }
+  
+  .navbar.light {
+    background-color: #f8f9fa;
+  }
+  
+  .btn-toggle {
+    background: none;
+    border: 1px solid gray;
+    border-radius: 4px;
+    padding: 4px 10px;
+    color: inherit;
+  }
+  

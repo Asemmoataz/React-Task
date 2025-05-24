@@ -1,0 +1,44 @@
+.Footer{
+    /* background-color: rgba(99, 99, 100, 0.814); */
+    height: 50vh;
+    display: flex;
+    padding: 40px;
+    justify-content: space-evenly;
+}
+.Footer div div a {
+    color: rgb(160, 160, 160);
+    line-height: 1.9;
+    text-decoration: none;
+}
+.Footer div div a:hover{
+    color: rgb(68, 14, 119);
+}
+.first{
+    font-size: 20px;
+    color: rgb(214, 211, 211);
+    font-weight: bold;
+}
+.p p{
+    line-height: .8;
+    padding: 5px;
+    margin: 12px;
+    color: rgb(192, 192, 198);
+}
+.alone {
+    height: 10vh;
+    background-color: rgba(99, 99, 100, 0.814);
+    color: rgb(193, 190, 190);
+    text-align: center;
+    padding-top: 10px;
+}
+.alone p{
+    padding: 10px;
+}
+hr{
+    margin: 0px;
+    border: 1px solid rgb(141, 138, 138);
+
+}
+.alone span{
+    font-weight: bold;
+}
